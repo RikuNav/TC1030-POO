@@ -2,7 +2,7 @@
 
 Ricardo Navarro Gómez A01708825  
 Profesor: Benjamín Valdés Aguirre   
-Proyecto: Simulador de Batallas 
+Proyecto: Batallas de Evas
 
 ## Explicación proyecto
 
